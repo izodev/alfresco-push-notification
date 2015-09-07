@@ -4,4 +4,8 @@
   <artifactId>alfresco-push-notification</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>push-notification-repo</module>
+  	<module>push-notification-share</module>
+  </modules>
 </project>
